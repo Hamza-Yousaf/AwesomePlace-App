@@ -12,4 +12,4 @@ const RNRedux = () => (
     </Provider>
 );
 
-AppRegistry.registerComponent('AwesomePlace', () => RNRedux);
+AppRegistry.registerComponent('rncourse', () => RNRedux);
